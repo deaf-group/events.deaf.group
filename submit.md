@@ -1,5 +1,8 @@
-# events.deaf.group
-
+---
+layout: page
+title: ✍ Submit Event
+permalink: submit
+---
 # Submission Rule
 1. Event Focus: Events must be related to the deaf, hard of hearing, and deafblind community.
 2. External Link: Each event submission must include a valid external link providing detailed information about the event.

@@ -1,0 +1,14 @@
+title: events.deaf.group
+url: https://events.deaf.group
+description: events.deaf.group
+theme: minima
+
+gems:
+  - jekyll-seo-tag
+  - jekyll-feed
+
+collections:
+  events:
+    output: true
+    permalink: /events/:path/
+    title: Events
