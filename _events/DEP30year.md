@@ -2,6 +2,8 @@
 layout: event
 title: "Deaf Empowerment Program - 30 year celebration"
 event_date: 2023-09-21
+event_country: "Canada"
+event_region: "Ontario"
 ---
 
 ![banner of Deaf Empowerment Program 30 year celebration event](https://www.mohawkcollege.ca/sites/default/files/styles/gallery_large/public/Event-images/TSK-7796_DEP30thAnniversaryEventCal_780x430.jpg?itok=TPwCGX2k)

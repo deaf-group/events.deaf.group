@@ -1,0 +1,60 @@
+<script>
+document.getElementById('resetButton').addEventListener('click', function() {
+    document.getElementById('yearSelect').value = 'all';
+    document.getElementById('countrySelect').value = 'all';
+
+    let listItems = document.querySelectorAll('#eventList li');
+    listItems.forEach(function(item) {
+        item.classList.remove('hidden');
+    });
+});
+
+document.getElementById('yearSelect').addEventListener('change', function() {
+    let selectedYear = this.value;
+    let selectedCountry = document.getElementById('countrySelect').value;
+
+    let listItems = document.querySelectorAll('#eventList li');
+
+    listItems.forEach(function(item) {
+        let dataDate = item.getAttribute('data-date');
+        let itemYear = new Date(dataDate).getFullYear();
+        let dataCountry = item.getAttribute('data-country');
+
+        if ((selectedYear === 'all' || selectedYear === itemYear.toString()) &&
+            (selectedCountry === 'all' || selectedCountry === dataCountry)) {
+            item.classList.remove('hidden');
+        } else {
+            item.classList.add('hidden');
+        }
+    });
+});
+
+document.getElementById('countrySelect').addEventListener('change', function() {
+    let selectedCountry = this.value;
+    let selectedYear = document.getElementById('yearSelect').value;
+
+    let listItems = document.querySelectorAll('#eventList li');
+
+    listItems.forEach(function(item) {
+        let dataCountry = item.getAttribute('data-country');
+        let dataDate = item.getAttribute('data-date');
+        let itemYear = new Date(dataDate).getFullYear();
+
+        if ((selectedCountry === 'all' || selectedCountry === dataCountry) &&
+            (selectedYear === 'all' || selectedYear === itemYear.toString())) {
+            item.classList.remove('hidden');
+        } else {
+            item.classList.add('hidden');
+        }
+    });
+});
+</script>
+<style>
+  li {
+    display: block;
+  }
+
+  li.hidden {
+    display: none;
+  }
+</style>

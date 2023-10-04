@@ -22,5 +22,8 @@
 # Submit Event by Email
 Please send email to **<!-- fsszcds -->events<!-- cxioneuvg -->@<!-- savdsfh  -->deaf.<!-- fidgvasud -->group**
 
-# Submit Event by GitHub
-Please create issue on [our GitHub repository](https://github.com/deaf-group/events.deaf.group)
+# Submit Event by Google Form
+👉 [https://forms.gle/HpfQ7pufkFfjNzmQA](https://forms.gle/HpfQ7pufkFfjNzmQA)
+
+# Any feedback and suggestions are welcome
+Please create issue/pull request on [our GitHub repository](https://github.com/deaf-group/events.deaf.group) or send email to **<!-- fsszcds -->events<!-- cxioneuvg -->@<!-- savdsfh  -->deaf.<!-- fidgvasud -->group**
