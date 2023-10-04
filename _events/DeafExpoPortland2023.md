@@ -3,7 +3,7 @@ layout: event
 title: "2023 DeafNation Expo: Portland, OR"
 event_date: 2023-10-14
 event_country: "United States"
-event_region: "Portland"
+event_region: "Oregon"
 ---
 
 ![banner of 2023 DeafNation Expo Portland](https://deafnation.com/wp-content/uploads/2023/01/20thDNExpoheader_color_web.png)
