@@ -11,8 +11,10 @@ permalink: /calendar-data/
 		"start": "{{event.event_date}}",
 		"country": "{{event.event_country}}",
 		"region": "{{event.event_region}}",
+		"citytown": "{{event.event_citytown}}",
 		"allDay":true,
-		"url":"{{event.url}}"
+		"url":"{{event.url}}",
+		"link":"{{event.link}}"
 	}
 	{%unless forloop.last %},{%endunless%}
 {% endfor %}
