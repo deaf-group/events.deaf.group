@@ -1,14 +1,14 @@
 ---
 layout: event
-title: "DeafNation Expo 2023: Portland, OR"
-event_date: 2023-10-14
+title: "DeafNation Expo 2023: Mesa, AZ"
+event_date: 2023-10-07
 event_country: "United States"
-event_region: "Oregon"
-event_citytown: "Portland"
-event_street: "2060 N Marine Dr"
-event_postalcode: "97217"
-event_buildingname: "Portland Expo Center"
-link: "https://deafnation.com/expo/2023portland"
+event_region: "Arizona"
+event_citytown: "Mesa"
+event_street: "6321 S Ellsworth Rd Suite 146"
+event_postalcode: "85212"
+event_buildingname: "Legacy Park, Arizona's Premier Sports & Entertainment Complex"
+link: "https://deafnation.com/expo/2023mesa/"
 ---
 
 ![banner of 2023 DeafNation Expo](https://deafnation.com/wp-content/uploads/2023/01/20thDNExpoheader_color_web.png)
@@ -16,9 +16,9 @@ link: "https://deafnation.com/expo/2023portland"
 We are the foremost touring trade show for, by, and about deaf people. Since 2003, the DeafNation Expo showcase has attracted over 1 million attendees with hundreds of events throughout the United States. We are excited to celebrate 20 years in 2023 with you!
 
 ### Address
-Portland Expo Center<br>
-2060 N Marine Dr<br>
-Portland, OR 97217<br>
+Legacy Park, Arizona's Premier Sports & Entertainment Complex<br>
+6321 S Ellsworth Rd Suite 146<br>
+Mesa, AZ 85212<br>
 United States
 
 ### Admission

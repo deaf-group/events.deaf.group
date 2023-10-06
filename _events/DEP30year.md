@@ -1,10 +1,13 @@
 ---
 layout: event
-title: "Deaf Empowerment Program - 30 year celebration"
+title: "Deaf Empowerment Program: 30 year celebration"
 event_date: 2023-09-21
 event_country: "Canada"
 event_region: "Ontario"
 event_citytown: "Hamilton"
+event_street: "135 Fennell Ave West"
+event_postalcode: "L9C 0E5M"
+event_buildingname: "Mohawk College, Fennell Campus"
 link: "https://www.mohawkcollege.ca/events/accessibility-deaf-empowerment-program-equity-diversity-inclusion-student-events/deaf"
 ---
 
@@ -12,8 +15,8 @@ link: "https://www.mohawkcollege.ca/events/accessibility-deaf-empowerment-progra
 
 Join us as we celebrate the 30th Anniversary of the Mohawk College Deaf Empowerment Program. 
 
-Thursday, September 21, 2023
-- The Joyce Centre for Partnership & Innovation (Main Lower Gallery)
-- Mohawk College, Fennell Campus 
-- 135 Fennell Ave West
-- Hamilton, ON L9C 0E5
+### Address
+Mohawk College, Fennell Campus<br>
+135 Fennell Ave West<br>
+Hamilton, ON L9C 0E5M<br>
+Canada
