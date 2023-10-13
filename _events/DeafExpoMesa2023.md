@@ -2,6 +2,8 @@
 layout: event
 title: "DeafNation Expo 2023: Mesa, AZ"
 event_date: 2023-10-07
+event_time_start: 9:00
+event_time_end: 17:00
 event_country: "United States"
 event_region: "Arizona"
 event_citytown: "Mesa"

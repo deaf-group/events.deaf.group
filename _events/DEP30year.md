@@ -2,6 +2,8 @@
 layout: event
 title: "Deaf Empowerment Program: 30 year celebration"
 event_date: 2023-09-21
+event_time_start: 17:00
+event_time_end: 19:00
 event_country: "Canada"
 event_region: "Ontario"
 event_citytown: "Hamilton"

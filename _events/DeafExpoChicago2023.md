@@ -2,6 +2,8 @@
 layout: event
 title: "DeafNation Expo 2023: Chicago, IL"
 event_date: 2023-11-04
+event_time_start: 9:00
+event_time_end: 17:00
 event_country: "United States"
 event_region: "Illinois"
 event_citytown: "Chicago"

@@ -25,5 +25,29 @@ Please send email to **<!-- fsszcds -->events<!-- cxioneuvg -->@<!-- savdsfh  --
 # Submit Event by Google Form
 👉 [https://forms.gle/HpfQ7pufkFfjNzmQA](https://forms.gle/HpfQ7pufkFfjNzmQA)
 
+# Template for event page
+This is for developer, maintainer, and power user. We are using markdown to create event. HTML addition is OK. Here are example:
+```
+---
+layout: event
+title: "DeafNation Expo 2052: New Tokyo, Mars"
+event_date: 2052-11-04
+event_time_start: 9:00
+event_time_end: 17:00
+event_country: "Mars"
+event_region: "Northmount"
+event_citytown: "New Tokyo"
+event_street: "2409 Main Road"
+event_postalcode: "12S L2C"
+event_buildingname: "New Tokyo Convention Centre"
+link: "https://deafnation.com/expo/2052northmount/"
+---
+
+![banner of 2052 DeafNation Expo](https://deafnation.com/wp-content/uploads/2052/11/2052DNEbanner.png)
+
+We are the foremost touring trade show for, by, and about deaf people. Since 2003, the DeafNation Expo showcase has attracted over 1 million attendees with hundreds of events throughout the solar system. 
+```
+You can see code between start and end of triple hyphen. They are data format that they are not visable to the website and they are useful for filtering event in **Event List** page. Link and address data will automatically inserted at bottom of event page. After that, you can write content what is event and description. Also, you can insert image (you need external link because we are not image hosting service) on content.
+
 # Any feedback and suggestions are welcome
 Please create issue/pull request on [our GitHub repository](https://github.com/deaf-group/events.deaf.group) or send email to **<!-- fsszcds -->events<!-- cxioneuvg -->@<!-- savdsfh  -->deaf.<!-- fidgvasud -->group**
