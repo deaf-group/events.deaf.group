@@ -1,11 +1,14 @@
 title: events.deaf.group
 url: https://events.deaf.group
 description: events.deaf.group
-theme: minima
+remote_theme: jekyll/minima #githubrepo
 
 gems:
   - jekyll-seo-tag
   - jekyll-feed
+
+plugins:
+  - jekyll-remote-theme
 
 collections:
   events:
