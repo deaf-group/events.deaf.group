@@ -20,7 +20,7 @@
 13. Notification of Changes: The platform may update these submission rules from time to time, and event organizers will be notified of any changes.
 
 # Submit Event by Email
-Please send email to **<!-- fsszcds -->events<!-- cxioneuvg -->@<!-- savdsfh  -->deaf.<!-- fidgvasud -->group**
+Please send email to **<<!-- xanuibidufbdsa -->feed<!-- asdzxcwqe -->back<!-- knosboiuabse -->.<!-- dsafasdf -->deaf.<!-- nvansiubsae -->group<!-- kjbjsbduibd -->@<!-- asvdfjhe -->skiff<!-- ivdsuibs -->.<!-- biuguisd -->com!**
 
 # Submit Event by Google Form
 👉 [https://forms.gle/HpfQ7pufkFfjNzmQA](https://forms.gle/HpfQ7pufkFfjNzmQA)
@@ -50,4 +50,4 @@ We are the foremost touring trade show for, by, and about deaf people. Since 200
 You can see code between start and end of triple hyphen. They are data format that they are not visable to the website and they are useful for filtering event in **Event List** page. Link and address data will automatically inserted at bottom of event page. After that, you can write content what is event and description. Also, you can insert image (you need external link because we are not image hosting service) on content.
 
 # Any feedback and suggestions are welcome
-Please create issue/pull request on [our GitHub repository](https://github.com/deaf-group/events.deaf.group) or send email to **<!-- fsszcds -->events<!-- cxioneuvg -->@<!-- savdsfh  -->deaf.<!-- fidgvasud -->group**
+Please create issue/pull request on [our GitHub repository](https://github.com/deaf-group/events.deaf.group) or send email to **<!-- ofdbfjdsf -->feed<!-- jcnweiubaksdf -->back<!-- zndoasdifg -->.<!-- sdlinoidfhdsa  -->deaf.<!-- bncjdhsatuy -->group<!-- asuubzk -->@<!-- knlksdhfsda -->skiff<!-- nsljbsdgfsad -->.<!-- osdjfoinasdlfhsda -->com!**
