@@ -23,10 +23,10 @@ permalink: submit
 13. Notification of Changes: The platform may update these submission rules from time to time, and event organizers will be notified of any changes.
 
 # Submit Event by Email
-Please send email to **<!-- fsszcds -->events<!-- cxioneuvg -->@<!-- savdsfh  -->deaf.<!-- fidgvasud -->group**
+Please send email to **<!-- vdfgdfsg -->feed<!-- rwevvfd -->back<!-- zndoasdifg -->.<!-- sdlinoidfhdsa  -->deaf.<!-- bncjdhsatuy -->group<!-- asuubzk -->@<!-- sdfadshdr -->skiff<!-- dshfdshfgd -->.<!-- osdjfoinasdlfhsda -->com!**
 
 # Submit Event by Google Form
 👉 [https://forms.gle/HpfQ7pufkFfjNzmQA](https://forms.gle/HpfQ7pufkFfjNzmQA)
 
 # Any feedback and suggestions are welcome
-Please create issue/pull request on [our GitHub repository](https://github.com/deaf-group/events.deaf.group) or send email to **<!-- fsszcds -->events<!-- cxioneuvg -->@<!-- savdsfh  -->deaf.<!-- fidgvasud -->group**
+Please create issue/pull request on [our GitHub repository](https://github.com/deaf-group/events.deaf.group) or send email to **<!-- ofdbfjdsf -->feed<!-- jcnweiubaksdf -->back<!-- sadfadshbadf -->.<!-- vdfsfsdfhdfs  -->deaf.<!-- dfasdfadsf -->group<!-- asuubzk -->@<!-- knlksdhfsda -->skiff<!-- nsljbsdgfsad -->.<!-- asdgdfshgdfshg -->com!**
