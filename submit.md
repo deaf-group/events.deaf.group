@@ -23,7 +23,7 @@ permalink: submit
 13. Notification of Changes: The platform may update these submission rules from time to time, and event organizers will be notified of any changes.
 
 # Submit Event by Email
-Please send email to **<!-- vdfgdfsg -->feed<!-- rwevvfd -->back<!-- zndoasdifg -->.<!-- sdlinoidfhdsa  -->deaf.<!-- bncjdhsatuy -->group<!-- asuubzk -->@<!-- sdfadshdr -->skiff<!-- dshfdshfgd -->.<!-- osdjfoinasdlfhsda -->com!**
+Please send email to **<!-- 23sdfzz -->sou<!-- casdfa2 -->rce<!-- vdssxcv -->.<!-- fdsaf3  -->_mow.<!-- dsfsdvsd -->0f<!-- dsgasdg -->@<!-- 324esdfs -->icl<!-- 324esdfs -->oud<!-- asdfasfas -->.<!-- fsdagxcvb -->com!**
 
 # Submit Event by Google Form
 👉 [https://forms.gle/HpfQ7pufkFfjNzmQA](https://forms.gle/HpfQ7pufkFfjNzmQA)
