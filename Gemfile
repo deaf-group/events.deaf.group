@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem "jekyll", "~> 4.3.3" #ssg
+gem "jekyll", "~> 4.3.4" #ssg
 gem 'jekyll-seo-tag' #metadata 
 gem 'tzinfo-data' #zoneinfo
 gem 'jekyll-remote-theme' #download latest commits from GitHub repo jekyll/minima
